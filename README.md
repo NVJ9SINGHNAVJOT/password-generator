@@ -12,6 +12,10 @@ Generate password on the basis of selected criteria.
 
 ## Screenshots
 
+![password_generator (3)](https://github.com/NVJ9SINGHNAVJOT/password-generator/assets/121451924/7e12ce4a-3832-4f88-8909-f3c04f830407)
+![password_generator (2)](https://github.com/NVJ9SINGHNAVJOT/password-generator/assets/121451924/534f3315-ccc9-483e-947a-6a6a197c7a40)
+![password_generator (1)](https://github.com/NVJ9SINGHNAVJOT/password-generator/assets/121451924/b82a6ea7-5b7a-41bd-bef3-8ecce2d4b990)
+
 ## Installation
 
 1. Clone the repository to your local machine.
